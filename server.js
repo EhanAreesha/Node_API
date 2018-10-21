@@ -174,7 +174,7 @@ socketEvent.ioHandler(io, server);
 
 
 //======================================================================================
-http.listen(settings.webPort, function (err) {
+http.listen(process.env.PORT || settings.webPort, function (err) {
     if (err) {
         throw err;
     } else {
