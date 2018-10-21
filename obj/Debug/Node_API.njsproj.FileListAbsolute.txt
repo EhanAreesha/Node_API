@@ -1,0 +1,9 @@
+E:\MaheenERP\Node_API_Dev\Node_API\obj\Debug\Node_API.njsprojAssemblyReference.cache
+E:\MaheenERP\Node_API_Dev\Node_API\obj\Debug\Node_API.njsproj.CoreCompileInputs.cache
+E:\MaheenERP\Node_API_Dev\Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+E:\MaheenERP\Backup Full\Node_API_Dev\Node_API\obj\Debug\Node_API.njsprojAssemblyReference.cache
+E:\MaheenERP\Backup Full\Node_API_Dev\Node_API\obj\Debug\Node_API.njsproj.CoreCompileInputs.cache
+E:\MaheenERP\Backup Full\Node_API_Dev\Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+E:\A Node\Node_API_Dev\Node_API\obj\Debug\Node_API.njsproj.CoreCompileInputs.cache
+E:\A Node\Node_API_Dev\Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+E:\A Node\Node_API_Dev\Node_API\obj\Debug\Node_API.njsprojAssemblyReference.cache

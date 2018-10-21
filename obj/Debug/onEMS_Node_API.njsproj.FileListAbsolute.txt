@@ -1,0 +1,16 @@
+E:\New folder\onEMS_Node_API\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsproj.CoreCompileInputs.cache
+E:\New folder\onEMS_Node_API\onEMS_Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+E:\VSonEMS\onEMS_Node_API\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsproj.CoreCompileInputs.cache
+E:\VSonEMS\onEMS_Node_API\onEMS_Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+E:\VSonEMS\onEMS_Node_API\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsprojResolveAssemblyReference.cache
+E:\Tfs\Projects\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsproj.CoreCompileInputs.cache
+E:\Tfs\Projects\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+D:\TFS\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsproj.CoreCompileInputs.cache
+D:\TFS\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+D:\TFS\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsprojResolveAssemblyReference.cache
+E:\EPZ\EMS Jahangir vai\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsproj.CoreCompileInputs.cache
+E:\EPZ\EMS Jahangir vai\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\bin\Microsoft.NodejsTools.WebRole.dll
+E:\EPZ\EMS Jahangir vai\EMSProjects\Development\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsprojAssemblyReference.cache
+C:\Users\IT-DEV100-LP\Desktop\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsprojAssemblyReference.cache
+C:\Users\IT-DEV100-LP\Desktop\onEMS_Node_API_Dev\onEMS_Node_API\obj\Debug\onEMS_Node_API.njsproj.CoreCompileInputs.cache
+C:\Users\IT-DEV100-LP\Desktop\onEMS_Node_API_Dev\onEMS_Node_API\bin\Microsoft.NodejsTools.WebRole.dll
